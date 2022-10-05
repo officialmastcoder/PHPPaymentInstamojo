@@ -39,7 +39,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `email`, `password`, `mobile`) VALUES
-(1, 'Vishal Gupta', 'phpvishal@gmail.com', 'vishal', '9999999999');
+(1, 'AHK WEB SOLUTIONS', 'admin@ahkwebsolutions.com', 'AHKWEB', '7896619162');
 
 --
 -- Indexes for dumped tables

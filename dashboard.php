@@ -20,7 +20,7 @@ if(isset($_POST['submit'])){
 		'amount' => $amount,
 		'phone' => $row['mobile'],
 		'buyer_name' => $row['name'],
-		'redirect_url' => 'https://programmingwithvishal.com/demo/instamojo/redirect.php',
+		'redirect_url' => 'https://domain.com/instamojo/redirect.php',
 		'send_email' => false,
 		'send_sms' => false,
 		'email' => $_SESSION['USER_EMAIL'],
